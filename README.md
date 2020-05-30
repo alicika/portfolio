@@ -1,5 +1,5 @@
 # My Personal Portfolio
-  A Djangobased personal portfolio website.
+  A Djangoｰbased personal portfolio website.
 
 # Requirements (that shall be installed in your system)
   1. Git
