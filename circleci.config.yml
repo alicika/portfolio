@@ -1,11 +1,11 @@
 version: 2.1
 
-# 実行環境の定義
+
 executors:
   test_default:
     working_directory: ~/myproject
     docker:
-    - image: circleci/python:3.7
+    - image: circleci/python:3.8
       environment:
         PYTHONDONTWRITEBYTECODE: 1
         PYTHONUNBUFFERED: 1
