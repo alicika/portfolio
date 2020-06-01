@@ -25,7 +25,6 @@ executors:
         PYTHONUNBUFFERED: 1
         TZ: Asia/Tokyo
 
-# 実行コマンドの定義
 commands:
   save_python_package:
     description: "pip install したpackageをキャッシュする"
