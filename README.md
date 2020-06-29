@@ -1,6 +1,6 @@
 # My Personal Portfolio
   A Djangoｰbased personal portfolio website.
-　Take a glance at this to see my career.
+  Plz feel free to take a glance at this to see my career.
  
 # Requirements (that shall be installed in your system)
   1. Git
